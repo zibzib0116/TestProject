@@ -8,4 +8,6 @@
     <string name="prepaid">Prepaid</string>
     <string name="country">COUNTRY</string>
     <string name="bank">BANK</string>
+    <string name="check">Check</string>
+    <string name="history">HISTORY</string>
 </resources>
